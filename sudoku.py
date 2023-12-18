@@ -1,5 +1,5 @@
 from pysat.solvers import Glucose4
-# teste
+
 # Entrada
 desafioSudoku = [[5,3,0],[0,7,0],[0,0,0],
                  [6,0,0],[1,9,5],[0,0,0],
